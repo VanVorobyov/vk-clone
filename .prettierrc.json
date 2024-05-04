@@ -1,0 +1,22 @@
+{
+	"tabWidth": 2,
+	"useTabs": false,
+	"semi": true,
+	"quoteProps": "as-needed",
+	"singleQuote": true,
+	"jsxSingleQuote": false,
+	"arrowParens": "avoid",
+	"printWidth": 120,
+	"endOfLine": "lf",
+	"bracketSpacing": true,
+	"jsxBracketSameLine": false,
+	"bracketSameLine": true,
+	"trailingComma": "all",
+	"extends": [
+		"eslint-config-prettier",
+		"airbnb",
+		"airbnb/hooks",
+		"next/core-web-vitals",
+		"airbnb-base"
+	]
+}
