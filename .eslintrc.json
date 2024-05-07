@@ -10,9 +10,6 @@
 		"plugin:react/jsx-runtime",
 		"plugin:react-hooks/recommended",
 		"plugin:jsx-a11y/recommended",
-//		"airbnb",
-//		"airbnb-base",
-//		"airbnb/hooks",
 		"next/core-web-vitals"
 	],
 	"parser": "@typescript-eslint/parser",

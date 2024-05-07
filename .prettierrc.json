@@ -11,12 +11,5 @@
 	"bracketSpacing": true,
 	"jsxBracketSameLine": false,
 	"bracketSameLine": true,
-	"trailingComma": "all",
-	"extends": [
-		"eslint-config-prettier",
-		"airbnb",
-		"airbnb/hooks",
-		"next/core-web-vitals",
-		"airbnb-base"
-	]
+	"trailingComma": "all"
 }
