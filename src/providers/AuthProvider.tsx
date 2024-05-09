@@ -30,7 +30,7 @@ export const AuthProvider: FC<PropsWithChildren<unknown>> = ({ children }) => {
     if (!accessToken) {
       setUser(null);
     }
-  }, []);
+  }, [pathname]);
 
   return <AuthContext.Provider value={{ user, setUser }}>{children}</AuthContext.Provider>;
 };
